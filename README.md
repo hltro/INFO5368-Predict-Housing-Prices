@@ -228,10 +228,6 @@ Test your homework solution as needed using Github Autograder. Clone your person
 streamlit run homework2.py
 ```
 
-# Reflection Assessment
-
-Complete on Canvas.
-
 
 
 
